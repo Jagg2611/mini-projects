@@ -20,7 +20,7 @@ This repository contains a variety of mini projects. Each project is stored in i
 4. **Tic-Tac-Toe**
 5. **To do List - 2**
 6. **Weather app - 1**
-7. **simon game t**
+7. **simon game **
 
 ## Installation
 
