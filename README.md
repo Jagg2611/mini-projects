@@ -14,10 +14,13 @@ This repository contains a variety of mini projects. Each project is stored in i
 
 ## List of Projects
 
-1. **Project 1**
-2. **Project 2**
-3. **Project 3**
-(More projects to be listed here)
+1. **Mini Drum Kit**
+2. **Notes app - 5**
+3. **Rock paper scissors**
+4. **Tic-Tac-Toe**
+5. **To do List - 2**
+6. **Weather app - 1**
+7. **simon game t**
 
 ## Installation
 
